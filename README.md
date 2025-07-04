@@ -1,5 +1,5 @@
 # Data_dashboard_Q-A
-Developed a chat bot and integrate the Question and Answer on a PDF along a Streamlit Smart Dashboard
+Using Open source tool to Integrate data with (Year ,Quarter, Month and day ) insights and analytics dashboards and data visualization with q&a AI models
 
 
 # Smart CSV Dashboard with AI-Powered Q&A
